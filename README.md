@@ -1,5 +1,6 @@
 # recriando-pagina-inicial-instagram
-Project done in the bootcamp of Digital Innovation One where we recreated the instagram homepage and set flexbox concepts, layout of elements on the screen, alignments and etc.
+
+Projeto realizado no bootcamp do Digital Innovation One onde recriamos a homepage do instagram e fixamos conceitos do flexbox, layout dos elementos na tela, alinhamentos e etc.além de fazer a responsividade usando media queries.
 
 #### Tecnologias
 
